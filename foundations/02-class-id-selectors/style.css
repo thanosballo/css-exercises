@@ -1,0 +1,19 @@
+p {
+    background-color: pink;
+    font-family: 'Verdana' , 'DejaVu Sans' , sans-serif;
+}
+
+#SecElem {
+    color: blue;
+    font-size: 36px;
+}
+
+.class {
+    font-size: 24px;
+}
+
+#txtgreen {
+    font-size: 24px;
+    background-color: lightgreen;
+    font-weight: bold;
+}
